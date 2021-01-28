@@ -1,0 +1,1440 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__1 {
+    position: absolute;
+    width: 1530px;
+    height: 2875px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Group_18 {
+    position: absolute;
+    width: 1802px;
+    height: 299px;
+    left: 0px;
+    top: 2575px;
+    overflow: visible;
+}
+#Rectangle_14 {
+    fill: rgba(102,70,203,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_14 {
+    position: absolute;
+    overflow: visible;
+    width: 1802px;
+    height: 299px;
+    left: 0px;
+    top: 0px;
+}
+#TRUNG_TM_ANH_NG_2Eng_a_ch_Khu_ {
+    left: 293px;
+    top: 46px;
+    position: absolute;
+    overflow: visible;
+    width: 704px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(1,1,9,1);
+}
+#Line_16 {
+    fill: transparent;
+    stroke: rgba(252,246,246,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_16 {
+    overflow: visible;
+    position: absolute;
+    width: 1345.013px;
+    height: 11px;
+    left: 109.5px;
+    top: 229.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#_2020_2Eng_All_Rights_Reserved {
+    left: 110px;
+    top: 238px;
+    position: absolute;
+    overflow: visible;
+    width: 315px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(4,0,0,1);
+}
+#Group_17 {
+    position: absolute;
+    width: 186px;
+    height: 128px;
+    left: 1031px;
+    top: 46px;
+    overflow: visible;
+}
+#FOLLOW_2Eng__ {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(0,0,9,1);
+}
+#Image_1 {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 93px;
+    top: 56px;
+    overflow: visible;
+}
+#Image_2 {
+    position: absolute;
+    width: 71px;
+    height: 72px;
+    left: 0px;
+    top: 56px;
+    overflow: visible;
+}
+#logo-da-thong-bao-website-voi- {
+    position: absolute;
+    width: 279px;
+    height: 106px;
+    left: 1217px;
+    top: 68px;
+    overflow: visible;
+}
+#Image_4 {
+    position: absolute;
+    width: 100px;
+    height: 65px;
+    left: 100px;
+    top: 2660px;
+    overflow: visible;
+}
+#ID1 {
+    opacity: 0.52;
+    fill: rgba(255,255,255,1);
+}
+.ID1 {
+    position: absolute;
+    overflow: visible;
+    width: 1534px;
+    height: 2003px;
+    left: 0px;
+    top: 572px;
+}
+#Untitled {
+    opacity: 0.7;
+    position: absolute;
+    width: 1527px;
+    height: 452px;
+    left: 7px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_15 {
+    fill: rgba(121,95,206,1);
+    stroke: rgba(6,0,0,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_15 {
+    position: absolute;
+    overflow: visible;
+    width: 1274px;
+    height: 33px;
+    left: 142px;
+    top: 139px;
+}
+#Path_1 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_1 {
+    overflow: visible;
+    position: absolute;
+    width: 1276.626px;
+    height: 2297.987px;
+    left: 142.014px;
+    top: 171.743px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#LEARN_TO_ENGLISH_WITH_2Eng {
+    left: 545px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 445px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(57,24,159,1);
+}
+#form-login-popup {
+    position: absolute;
+    width: 1274px;
+    height: 156px;
+    left: 142px;
+    top: 172px;
+    overflow: visible;
+}
+#Image_4_x {
+    position: absolute;
+    width: 150px;
+    height: 97px;
+    left: 110px;
+    top: 26px;
+    overflow: visible;
+}
+#Lin_H_Trung_Tm {
+    left: 363px;
+    top: 532px;
+    position: absolute;
+    overflow: visible;
+    width: 264px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(57,24,159,1);
+}
+#Image_3 {
+    position: absolute;
+    width: 20px;
+    height: 136px;
+    left: 1017px;
+    top: 328px;
+    overflow: visible;
+}
+#Image_3_ {
+    position: absolute;
+    width: 16px;
+    height: 112px;
+    left: 1099px;
+    top: 328px;
+    overflow: visible;
+}
+#Image_3_ba {
+    position: absolute;
+    width: 24px;
+    height: 157px;
+    left: 1172px;
+    top: 328px;
+    overflow: visible;
+}
+#Ellipse_4 {
+    fill: rgba(156,2,2,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 107px;
+    height: 108px;
+    left: 1131px;
+    top: 485px;
+}
+#Ellipse_5 {
+    fill: rgba(156,2,2,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_5 {
+    position: absolute;
+    overflow: visible;
+    width: 107px;
+    height: 108px;
+    left: 1053px;
+    top: 440px;
+}
+#Icon_awesome-phone-alt {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-phone-alt {
+    overflow: visible;
+    position: absolute;
+    width: 41.898px;
+    height: 54.061px;
+    left: 1085.302px;
+    top: 466.939px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_6 {
+    fill: rgba(156,2,2,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 107px;
+    height: 108px;
+    left: 973px;
+    top: 464px;
+}
+#Icon_ionic-ios-mail {
+    position: absolute;
+    width: 65px;
+    height: 45px;
+    left: 994.2px;
+    top: 493.5px;
+    overflow: visible;
+}
+#Path_2 {
+    fill: rgba(255,255,255,1);
+}
+.Path_2 {
+    overflow: visible;
+    position: absolute;
+    width: 65px;
+    height: 39.58px;
+    left: 0px;
+    top: 5.42px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+    fill: rgba(255,255,255,1);
+}
+.Path_3 {
+    overflow: visible;
+    position: absolute;
+    width: 61.234px;
+    height: 28.609px;
+    left: 1.891px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-edit-location {
+    fill: rgba(255,255,255,1);
+}
+.Icon_material-edit-location {
+    overflow: visible;
+    position: absolute;
+    width: 42.698px;
+    height: 63.733px;
+    left: 1162.969px;
+    top: 508.267px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Image_3_bb {
+    position: absolute;
+    width: 18px;
+    height: 124px;
+    left: 1241px;
+    top: 328px;
+    overflow: visible;
+}
+#Ellipse_7 {
+    fill: rgba(156,2,2,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_7 {
+    position: absolute;
+    overflow: visible;
+    width: 107px;
+    height: 108px;
+    left: 1196px;
+    top: 452px;
+}
+#Ellipse_8 {
+    fill: rgba(156,2,2,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_8 {
+    position: absolute;
+    overflow: visible;
+    width: 107px;
+    height: 108px;
+    left: 1273px;
+    top: 486px;
+}
+#Image_3_bd {
+    position: absolute;
+    width: 24px;
+    height: 157px;
+    left: 1316px;
+    top: 328px;
+    overflow: visible;
+}
+#Icon_awesome-facebook {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook {
+    overflow: visible;
+    position: absolute;
+    width: 63.083px;
+    height: 57.516px;
+    left: 1295.45px;
+    top: 511.484px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_17 {
+    fill: transparent;
+    stroke: rgba(255,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_17 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 1818px;
+    left: 893.5px;
+    top: 613.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#ID2Eng_lun_mong_mun_nhn_c_nhng {
+    left: 176px;
+    top: 615px;
+    position: absolute;
+    overflow: visible;
+    width: 670px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+.Rectangle_16 {
+    position: absolute;
+    width: 529px;
+    height: 56px;
+    left: 212px;
+    top: 720px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+    padding-left: 20px;
+}
+#H_v_tn_m {
+    left: 241px;
+    top: 735px;
+    position: absolute;
+    overflow: visible;
+    width: 131px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+.Rectangle_17 {
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    height: 56px;
+    left: 212px;
+    top: 797px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+    padding-left: 20px;
+}
+#S_in_thoi {
+    left: 241px;
+    top: 812px;
+    position: absolute;
+    overflow: visible;
+    width: 118px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+.Rectangle_18 {
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    height: 56px;
+    left: 211px;
+    top: 874px;
+    border: 2px solid rgb(0, 0, 0);
+    padding-left: 20px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+.Rectangle_19 {
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    height: 56px;
+    left: 212px;
+    top: 951px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+    padding-left: 20px;
+}
+.Rectangle_20 {
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    height: 56px;
+    left: 212px;
+    top: 1024px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+    padding-left: 20px;
+}
+#_Vn__phn_hi {
+    left: 176px;
+    top: 1115px;
+    position: absolute;
+    overflow: visible;
+    width: 169px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Ellipse_9 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 23px;
+    height: 26px;
+    left: 211px;
+    top: 1177px;
+}
+#Ellipse_10 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_10 {
+    position: absolute;
+    overflow: visible;
+    width: 23px;
+    height: 26px;
+    left: 211px;
+    top: 1220px;
+}
+#Ellipse_11 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_11 {
+    position: absolute;
+    overflow: visible;
+    width: 23px;
+    height: 26px;
+    left: 211px;
+    top: 1263px;
+}
+#Ellipse_12 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_12 {
+    position: absolute;
+    overflow: visible;
+    width: 23px;
+    height: 26px;
+    left: 211px;
+    top: 1306px;
+}
+#Email {
+    left: 241px;
+    top: 889px;
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Tiu_ {
+    left: 241px;
+    top: 966px;
+    position: absolute;
+    overflow: visible;
+    width: 66px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Kha_hc_quan_tm {
+    left: 241px;
+    top: 1039px;
+    position: absolute;
+    overflow: visible;
+    width: 173px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+.Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    height: 184px;
+    left: 211px;
+    top: 1453px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+    padding-left: 20px;
+}
+#Ni_dung {
+    left: 247px;
+    top: 1463px;
+    position: absolute;
+    overflow: visible;
+    width: 84px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#nh_km_nh {
+    left: 212px;
+    top: 1659px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#THA_THUN_BO_MT_THNG_TIN____1_2 {
+    left: 157px;
+    top: 1735px;
+    position: absolute;
+    overflow: visible;
+    width: 733px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,0,0,1);
+}
+#Than_phin {
+    left: 251px;
+    top: 1177px;
+    position: absolute;
+    overflow: visible;
+    width: 99px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Khen_ngi {
+    left: 251px;
+    top: 1219px;
+    position: absolute;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#T_vn__ng_k_kha_hc {
+    left: 251px;
+    top: 1261px;
+    position: absolute;
+    overflow: visible;
+    width: 232px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Tuyn_dng {
+    left: 251px;
+    top: 1345px;
+    position: absolute;
+    overflow: visible;
+    width: 106px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Ellipse_13 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_13 {
+    position: absolute;
+    overflow: visible;
+    width: 23px;
+    height: 26px;
+    left: 211px;
+    top: 1349px;
+}
+#_xut {
+    left: 251px;
+    top: 1303px;
+    position: absolute;
+    overflow: visible;
+    width: 68px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Ellipse_14 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_14 {
+    position: absolute;
+    overflow: visible;
+    width: 23px;
+    height: 26px;
+    left: 211px;
+    top: 1392px;
+}
+#Vn__khc {
+    left: 251px;
+    top: 1387px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_23 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_23 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 19px;
+    left: 192px;
+    top: 2196px;
+}
+#Ti_xc_nhn_cc_thng_tin_cc_nhn_c {
+    left: 229px;
+    top: 2189px;
+    position: absolute;
+    overflow: visible;
+    width: 656px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_24 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_24 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 19px;
+    left: 192px;
+    top: 2292px;
+}
+#Gi_mt_bng_sao_n_Email_ca_bn {
+    left: 229px;
+    top: 2284px;
+    position: absolute;
+    overflow: visible;
+    width: 330px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+.Rectangle_25 {
+    position: absolute;
+    overflow: visible;
+    width: 224px;
+    height: 50px;
+    left: 653px;
+    top: 2353px;
+    background-color: rgba(170,0,255,1);
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Gi_phn_hi {
+    left: 691px;
+    top: 2362px;
+    position: absolute;
+    overflow: visible;
+    width: 153px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#TRUNG_TM_ANH_NG_2ENG {
+    left: 996px;
+    top: 654px;
+    position: absolute;
+    overflow: visible;
+    width: 335px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+}
+#a_ch_Khu_ph_6_PLinh_Trung_____ {
+    left: 918px;
+    top: 716px;
+    position: absolute;
+    overflow: visible;
+    width: 390px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#in_thoi_028_782_50593 {
+    left: 919px;
+    top: 812px;
+    position: absolute;
+    overflow: visible;
+    width: 319px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Email_2Enggroup2eduvn {
+    left: 919px;
+    top: 875px;
+    position: absolute;
+    overflow: visible;
+    width: 317px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Thi_gian_m_ca_________7h30-20h {
+    left: 919px;
+    top: 938px;
+    position: absolute;
+    overflow: visible;
+    width: 382px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Phng_ghi_danh_Ngoi_t_vn_v_ghi_ {
+    left: 918px;
+    top: 1067px;
+    position: absolute;
+    overflow: visible;
+    width: 436px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Icon_awesome-facebook-square {
+    fill: rgba(0,0,0,1);
+}
+.Icon_awesome-facebook-square {
+    overflow: visible;
+    position: absolute;
+    width: 52.5px;
+    height: 52.5px;
+    left: 1056.552px;
+    top: 1229.487px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-youtube {
+    fill: rgba(0,0,0,1);
+}
+.Icon_metro-youtube {
+    overflow: visible;
+    position: absolute;
+    width: 51.414px;
+    height: 51.414px;
+    left: 1144.444px;
+    top: 1229.03px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Image_4_cm {
+    position: absolute;
+    width: 475px;
+    height: 309px;
+    left: 918px;
+    top: 1426px;
+    overflow: visible;
+}
+#Image_5 {
+    position: absolute;
+    width: 475px;
+    height: 284px;
+    left: 918px;
+    top: 1752px;
+    overflow: visible;
+}
+#Image_6 {
+    position: absolute;
+    width: 475px;
+    height: 290px;
+    left: 918px;
+    top: 2053px;
+    overflow: visible;
+}
+#Icon_awesome-telegram {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-telegram {
+    overflow: visible;
+    position: absolute;
+    width: 45.996px;
+    height: 47.438px;
+    left: 1226.067px;
+    top: 482.563px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#avatar {
+    left: 212px;
+    top: 1690px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+/* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+
+    #Group_14 {
+        position: absolute;
+        width: 172px;
+        height: 55px;
+        left: 1235px;
+        top: 40px;
+        overflow: visible;
+    }
+    #Group_13 {
+        position: absolute;
+        width: 172px;
+        height: 55px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Rectangle_7 {
+        fill: rgba(102,70,203,1);
+        stroke: rgba(112,112,112,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Rectangle_7 {
+        position: absolute;
+        overflow: visible;
+        width: 172px;
+        height: 55px;
+        left: 0px;
+        top: 0px;
+    }
+    #ng_nhp {
+        left: 32px;
+        top: 10px;
+        position: absolute;
+        overflow: visible;
+        width: 109px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 21px;
+        color: rgba(255,242,242,1);
+    }
+    #Hi {
+        left: 1284px;
+        top: 59px;
+        position: absolute;
+        overflow: visible;
+        width: 24px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        color: rgba(0,0,0,1);
+    }
+    #Ngc {
+        left: 1320px;
+        top: 59px;
+        position: absolute;
+        overflow: visible;
+        width: 51px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        color: rgba(0,0,0,1);
+        text-decoration-line: underline;
+    }
+    /* --------------------------------------------- */
+/* --------------------------------------------- */
+/* --------------------------------------------- */
+/* --------------------------------------------- */
+/* --------------------------------------------- */
+/* --------------------------------------------- */
+/* --------------------------------------------- */
+/* --------------------------------------------- */
+/* --------------------------------------------- *//* --------------------------------------------- */
+/* --------------------------------------------- */
+
+/* --------------------------------------------- */
+#dropdown ul {
+    position: absolute;
+    overflow: visible;
+    width: 200px;
+    left: 1190px;
+    top: 15px;
+    list-style-type: none;
+    background-color: #fff;
+    box-shadow: 3px 3px 10px rgb(201, 201, 201);
+}
+#dropdown li {
+    font-size: 18px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(226, 224, 224);
+    color: rgb(70, 70, 70);
+}
+#dropdown li:hover {
+    background: #f7f1fd;
+}
+
+#menu, #dropdown{
+    position: absolute;
+    }
+#menu {
+z-index: 4;
+}
+#dropdown {
+z-index: 5;
+}
+/* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    #menu {
+        width: 1275px;
+        height: 36px;
+        left: 141px;
+        top: 135px;
+        font-size: 20px;
+        text-align: center;
+    }
+    #menu ul {
+        background: #795FCE;
+    }
+    #menu li {
+        display: inline-block;
+        line-height: 40px;
+        text-align: left;
+    }
+
+    #menu li:hover {
+        background: #c491fd;
+    }
+    #menu li:hover {
+        background: #c491fd;
+    }
+    #menu a {
+        text-decoration: none;
+        color: #fff;
+        display: block;
+    }
+    
+    .sub-menu {
+        display: none;
+        position: absolute;
+    }
+
+    li:hover .sub-menu {
+        display: block;
+    }
+    .sub-menu li{
+        padding-left: 10px;
+    }
+
+    .sub2 {
+        width: 220px;
+    }
+    .li1 {
+        padding-right: 43px;
+    }
+    .li2 {
+        padding-right: 43px;
+    }
+    .li3 {
+        padding-right: 20px;
+    }
+    .li4 {
+        padding-right: 52px;
+    }
+    .li5 {
+        padding-right: 25px;
+    }
+
+    .sub1 {
+        width: 100px;
+    }
+    .li6 {
+        padding-right: 32px;
+    }
+    .li7 {
+        padding-right: 20px;
+    }
+    .li8 {
+        padding-right: 91px;
+    }
+    .li9 {
+        padding-right: 21px;
+    }
+
+    .sub3 {
+        width: 100px;
+    }
+    .li10 {
+        padding-right: 40px;
+    }
+    .li11 {
+        padding-right: 77px;
+    }
+    .li12 {
+        padding-right: 132px;
+    }
+
+
+    #Icon_awesome-home {
+    fill: rgba(255,255,255,1);
+    }
+    .Icon_awesome-home {
+        overflow: visible;
+        width: 40px;
+        height: 18px;
+        transform: matrix(1,0,0,1,0,0);
+    }
+
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+
+    #Group_14 {
+        position: absolute;
+        width: 172px;
+        height: 55px;
+        left: 1235px;
+        top: 40px;
+        overflow: visible;
+    }
+    #Group_13 {
+        position: absolute;
+        width: 172px;
+        height: 55px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Rectangle_7 {
+        fill: rgba(102,70,203,1);
+        stroke: rgba(112,112,112,1);
+        stroke-width: 1px;
+        stroke-linejoin: miter;
+        stroke-linecap: butt;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Rectangle_7 {
+        position: absolute;
+        overflow: visible;
+        width: 172px;
+        height: 55px;
+        left: 0px;
+        top: 0px;
+    }
+    #ng_nhp {
+        left: 32px;
+        top: 10px;
+        position: absolute;
+        overflow: visible;
+        width: 109px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 21px;
+        color: rgba(255,242,242,1);
+    }
+    #Hi {
+        left: 1284px;
+        top: 59px;
+        position: absolute;
+        overflow: visible;
+        width: 24px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        color: rgba(0,0,0,1);
+    }
+    #Ngc {
+        left: 1320px;
+        top: 59px;
+        position: absolute;
+        overflow: visible;
+        width: 51px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        color: rgba(0,0,0,1);
+        text-decoration-line: underline;
+    }
+  

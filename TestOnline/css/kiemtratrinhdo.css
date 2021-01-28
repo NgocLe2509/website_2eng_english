@@ -1,0 +1,51 @@
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: royalblue;
+}
+.button{
+    background-color:darkviolet;
+    color:white;
+    width:80px;
+    height:30px;
+    font-weight:bold;
+    font-size:14px;
+    border-radius:10%;
+    margin-left: 500px;
+   
+}
+.button:hover{
+    background-color:blueviolet;
+}
+
+.back{
+    background-color:darkviolet;
+    color:white;
+    width:80px;
+    height:30px;
+    font-weight:bold;
+    font-size:14px;
+    border-radius:10%;
+    margin-left: 500px;
+   
+}
+.back:hover{
+    background-color:blueviolet;
+}
+#Rectangle_15 {
+    height: 8930px;
+}
+#Group_18 {
+    top: 9300px;
+}
+#Web_1366__1 {
+    height: 9600px;
+}

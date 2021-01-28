@@ -1,0 +1,31 @@
+/* Phần sửa từ home.css*/
+#Web_1366__1 {
+    height: 2140px;
+}
+
+#Group_18 {
+    top: 1840px;
+}
+
+#Rectangle_15 {
+    height: 1480px;
+}
+
+/*Phần thêm*/
+#Lin_Kt ol, #Lin_Kt ul, #Lin_Kt li{
+    text-indent: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.hv-li1 {
+    margin-left: 20px;
+}
+
+.hv-li2 {
+    margin-left: 20px;
+}
+
+.hv-li3 {
+    margin-left: 60px;
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trung Tâm Anh Ngữ 2Eng</title>
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+<?php
+		include("../include/config.php");
+		session_start();
+		$LoaiND = null;
+		$user_login = session();
+		if($user_login != "none_user"){
+			header("Location:../TrangChu/home.php");
+		}
+		if(isset($_POST["login"])){
+			// Get values username, password
+			$UserID = $_POST['UserID'];
+			$Password = $_POST['Password'];
+			
+			if($UserID == null || $Password == null){ ?>
+				<script>
+					alert("Chưa nhập Tên Truy Nhập hoặc Mật Khẩu");
+				</script>
+		<?php }
+			else 
+			{
+				// query the database for user
+				$row = get_NguoiDung($UserID, $Password);
+				echo $row;
+				if($row != 0){
+					$_SESSION['UserID'] = $row['UserID'];
+					header("Location:../TrangChu/home.php");
+				}
+				else if ($row == 0){ ?>
+					<script>
+						alert("Sai Tên Truy Nhập hoặc Mật Khẩu");
+					</script>
+				<?php }
+			}
+		}
+	?>
+<div id="iPhone_XR_XS_Max_11__1">
+	<svg class="Polygon_1" viewBox="0 0 438 228">
+		<path id="Polygon_1" d="M 219.0000305175781 0 L 438.0000610351563 227.9999389648438 L 0 227.9999389648438 Z">
+		</path>
+	</svg>
+	<svg class="Polygon_2" viewBox="0 0 95 469">
+		<path id="Polygon_2" d="M 47.49984359741211 0 L 94.99996948242188 469.0000305175781 L 0 469.0000305175781 Z">
+		</path>
+	</svg>
+	<svg class="Rectangle_7">
+		<rect id="Rectangle_7" rx="0" ry="0" x="0" y="0" width="1099" height="385">
+		</rect>
+	</svg>
+	<svg class="Rectangle_8">
+		<rect id="Rectangle_8" rx="0" ry="0" x="0" y="0" width="476" height="555">
+		</rect>
+	</svg>
+	<div id="LOGIN">
+		<span>LOGIN</span>
+	</div>
+	<div id="Tn_truy_cp">
+		<span>Tên truy cập</span>
+	</div>
+	
+	<div id="Mt_khu">
+		<span>Mật khẩu</span>
+	</div>
+	<div id="Forgot_password">
+		<span><a href="resetPassword.php" style="text-decoration: none;">Forgot password?</a></span>
+	</div>
+	<svg class="Rectangle_13">
+		<rect id="Rectangle_13" rx="0" ry="0" x="0" y="0" width="476" height="555">
+		</rect>
+	</svg>
+	<div id="LEARN_TO_ENGLISH_WITH_2Eng">
+		<span>LEARN TO ENGLISH<br/>WITH 2Eng</span>
+	</div>
+	<img id="ID123249393_366914164559124_28" src="../img/Image_41.png" alt="Learn to english with 2Eng"/>
+	<img id="form-login-popup" src="../img/form-login-popup.jpg" alt="Logo 2Eng"/>
+	<div id="FORM_LOGIN">
+		<span>FORM LOGIN</span>
+    </div>
+    <div id="form">
+			<form action="" method = "POST">
+				
+				</br><input type="text" class="Rectangle_10" name="UserID" value="">
+				<br>
+				</br><input type="password" class="Rectangle_14" name="Password" value="">
+				<br><input type="submit" class="Rectangle_12" name="login" value="Login" > </br> 
+			</form>
+	</div>
+	<svg class="Icon_awesome-home" viewBox="-0.001 2.254 38.8 29.8">
+		<a href="../TrangChu/home.php"><path id="Icon_awesome-home" d="M 18.88444709777832 9.984405517578125 L 6.466092109680176 20.08625602722168 L 6.466092109680176 30.98906517028809 C 6.466092109680176 31.57691955566406 6.94858980178833 32.053466796875 7.543781280517578 32.053466796875 L 15.09165191650391 32.03417587280273 C 15.68473815917969 32.03125 16.16395950317383 31.5555534362793 16.1639518737793 30.96977424621582 L 16.1639518737793 24.60264778137207 C 16.1639518737793 24.01479339599609 16.64645004272461 23.53824615478516 17.24164199829102 23.53824615478516 L 21.55240249633789 23.53824615478516 C 22.14759254455566 23.53824615478516 22.63009071350098 24.01479339599609 22.63009071350098 24.60264778137207 L 22.63009071350098 30.96511459350586 C 22.62919616699219 31.24798583984375 22.74234008789063 31.51957702636719 22.94454765319824 31.71991348266602 C 23.14675331115723 31.92024993896484 23.4213752746582 32.03284454345703 23.70778274536133 32.03284454345703 L 31.25295829772949 32.053466796875 C 31.84814262390137 32.053466796875 32.33065032958984 31.57691955566406 32.33065032958984 30.98906517028809 L 32.33065032958984 20.07893562316895 L 19.91498756408691 9.984405517578125 C 19.61424255371094 9.744977951049805 19.18519401550293 9.744977951049805 18.88444709777832 9.984405517578125 Z M 38.50041961669922 16.8504695892334 L 32.86949157714844 12.26622009277344 L 32.86949157714844 3.051817893981934 C 32.86949157714844 2.610927581787109 32.50761795043945 2.253515720367432 32.06122589111328 2.253515720367432 L 28.28931045532227 2.253515720367432 C 27.84291458129883 2.253515720367432 27.48104095458984 2.610928058624268 27.48104095458984 3.051818370819092 L 27.48104095458984 7.882209777832031 L 21.45069313049316 2.981966495513916 C 20.25720405578613 2.01195240020752 18.53549575805664 2.01195240020752 17.34200286865234 2.981966495513916 L 0.292277991771698 16.8504695892334 C -0.0519440732896328 17.13147163391113 -0.1002039164304733 17.63493728637695 0.1845093071460724 17.9747486114502 L 1.902076840400696 20.03702545166016 C 2.038425922393799 20.20077514648438 2.235126972198486 20.30422973632813 2.44879674911499 20.3245735168457 C 2.662466526031494 20.34491539001465 2.875552892684937 20.28047370910645 3.041060447692871 20.14546203613281 L 18.88444709777832 7.256874084472656 C 19.18519401550293 7.017447471618652 19.61424255371094 7.017447471618652 19.91498947143555 7.256874084472656 L 35.7590446472168 20.14546203613281 C 36.10309982299805 20.42666435241699 36.61285018920898 20.37899780273438 36.89736175537109 20.03902244567871 L 38.61492538452148 17.97674179077148 C 38.75150680541992 17.81261444091797 38.81621170043945 17.60148429870605 38.79472351074219 17.39009857177734 C 38.77323532104492 17.17870903015137 38.66731262207031 16.98450088500977 38.50042724609375 16.8504695892334 Z"></a>
+		
+	</svg>  
+</div>
+</body>
+</html> 

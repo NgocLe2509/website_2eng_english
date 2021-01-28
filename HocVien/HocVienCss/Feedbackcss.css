@@ -1,0 +1,43 @@
+/* Phần sửa từ home.css*/
+#Web_1366__1 {
+    height: 2760px;
+}
+
+#Group_18 {
+    top: 2460px;
+}
+
+#Rectangle_15 {
+    height: 2100px;
+}
+
+/*Phần thêm*/
+.img-fb {
+    width: 300px;
+    height: 250px;
+}
+
+.table-fb, .table-fb td, .table-fb tr {
+    padding: 10px;
+}
+
+.hv-kqthi {
+    color: red; 
+    text-indent: 20px;
+}
+
+h4 {
+    color: blue;
+}
+
+.tb_trang {
+    margin-left: 250px;
+    border-spacing: 15px;
+}
+
+.tb_trang td{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(241, 214, 230);
+}

@@ -1,0 +1,38 @@
+
+h2{
+    text-align:center;
+    color:blue;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+
+th, td {
+    padding: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: lightgray;
+}
+
+tr:nth-child(even) {
+    background-color: white;
+}
+
+th {
+    background-color: darkviolet;
+    color: white;
+    text-align: center;
+    vertical-align: central;
+}
+#Rectangle_15 {
+    height: 2530px;
+}
+#Group_18 {
+    top: 2930px;
+}
+#Web_1366__1 {
+    height: 3230px;
+}

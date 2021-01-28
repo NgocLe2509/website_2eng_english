@@ -1,0 +1,35 @@
+
+
+/*Phần trang Học viên*/
+#Lin_Kt h1 {
+    text-align: center;
+    color: blue;
+}
+
+#Lin_Kt p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#Lin_Kt h3 {
+    color: red; 
+    text-align: center;
+}
+
+#Lin_Kt ul {
+    padding-left: 20px;
+}
+
+#Lin_Kt li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.div_navi {
+    background-color: rgb(202, 242, 255);
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    text-indent: 10px;
+    margin-bottom: 10px;
+}

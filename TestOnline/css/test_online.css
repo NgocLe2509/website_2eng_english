@@ -1,0 +1,39 @@
+
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: royalblue;
+}
+a{
+    color:white;
+    font-weight:bold;
+    text-decoration:none;
+}
+.para{
+    background-color:darkviolet;
+    color:white;
+    width:150px;
+    height:30px;
+    text-align:center;
+    vertical-align:middle
+}
+.para:hover{
+    background-color:blueviolet;
+}
+#Rectangle_15 {
+    height: 1500px;
+}
+#Group_18 {
+    top: 1900px;
+}
+#Web_1366__1 {
+    height: 2200px;
+}

@@ -1,0 +1,77 @@
+
+
+/*Phần trang cửa hàng*/
+.div_navi {
+    background-color: rgb(202, 242, 255);
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    text-indent: 10px;
+
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.img-sach {
+    width: 200px;
+    height: 210px;
+    padding: 10px;
+}
+
+.img-sach:hover {
+    width: 210px;
+    height: 260px;
+}
+
+.button-datmua {
+    border: none;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px gray;
+    font-weight: bold;
+}
+
+.button-datmua:hover {
+    background-color: rgb(5, 5, 107);
+}
+
+.table-ch td {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.table-ch a {
+    text-decoration: none;
+    color:blue;
+}
+
+.table-ch h3 {
+    color: blue;
+}
+
+.table-ch a:hover {
+    color:rgb(3, 3, 83);
+}
+
+.table-ch h4 {
+    color: red;
+}
+
+.mota {
+    text-align: justify;
+    color: black;
+    font-weight: none;
+}
+
+.img-sach-ct {
+    width: 400px;
+    height: 410px;
+    padding: 10px;
+}
+

@@ -1,0 +1,30 @@
+/* Phần sửa từ home.css*/
+#Web_1366__1 {
+    height: 5869px;
+}
+
+#Group_18 {
+    top: 5570px;
+}
+
+#Rectangle_15 {
+    height: 5190px;
+}
+
+/*Phần thêm*/
+
+.table-ud {
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid red; 
+    border-radius: 10px;
+    width: 700px;
+}
+
+.table-ud td{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: black;
+    padding: 10px;
+}

@@ -1,0 +1,549 @@
+body {
+	background-color: rgba(195,172,250,1);
+}
+.mediaViewInfo {
+	--web-view-name: iPhone XR, XS Max, 11 – 1;
+	--web-view-id: iPhone_XR_XS_Max_11__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_XR_XS_Max_11__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_XR_XS_Max_11__1 {
+	position: absolute;
+	width: 1509px;
+	height: 676px;
+	background-color: rgba(195,172,250,1);
+	overflow: hidden;
+	--web-view-name: iPhone XR, XS Max, 11 – 1;
+	--web-view-id: iPhone_XR_XS_Max_11__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Polygon_1 {
+	fill: rgba(164,139,246,1);
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 438px;
+	height: 228px;
+	left: 1071px;
+	top: 63px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygon_2 {
+	fill: rgba(164,139,246,1);
+}
+.Polygon_2 {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 469px;
+	transform: matrix(1,0,0,1,472.703,231.0888) rotate(39deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_7 {
+	fill: rgba(164,139,246,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1099px;
+	height: 385px;
+	left: 410px;
+	top: 291px;
+}
+#Rectangle_8 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 476px;
+	height: 555px;
+	left: 814px;
+	top: 64px;
+}
+#LOGIN {
+	left: 985px;
+	top: 180px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial Rounded MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: #6646cb;
+}
+#Tn_truy_cp {
+	left: 876px;
+	top: 250px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 48px;
+	left: 876px;
+	top: 285px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	border: 2px solid rgb(0, 0, 0);
+}
+#Mt_khu {
+	left: 876px;
+	top: 346px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Forgot_password {
+	left: 1052px;
+	top: 450px;
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial Rounded MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 48px;
+	left: 876px;
+	top: 473px;
+	box-sizing: border-box;
+	color: #FFFFFF;
+	background-color: #6646cb;
+	font-size: 20px;
+	font-family: Arial Rounded MT;
+	font-weight: bold;
+	font-style: normal;
+}
+#Login {
+	left: 908px;
+	top: 486px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial Rounded MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_13 {
+	fill: rgba(102,70,203,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 476px;
+	height: 555px;
+	left: 337px;
+	top: 63px;
+}
+#LEARN_TO_ENGLISH_WITH_2Eng {
+	left: 393px;
+	top: 152px;
+	position: absolute;
+	overflow: visible;
+	width: 366px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.4px;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	height: 48px;
+	left: 876px;
+	top: 390px;
+	box-sizing: border-box;
+	border: 2px solid rgb(0, 0, 0);
+	padding-left: 20px;
+	  
+}
+#ID123249393_366914164559124_28 {
+	position: absolute;
+	width: 105px;
+	height: 105px;
+	left: 990px;
+	top: 72px;
+	overflow: visible;
+}
+#form-login-popup {
+	position: absolute;
+	width: 308px;
+	height: 187.5px;
+	left: 422px;
+	top: 322px;
+	overflow: visible;
+}
+#FORM_LOGIN {
+	filter: drop-shadow(15px 15px 1px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,-8.997,301.651) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+
+
+
+
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1554px;
+	height: 730px;
+	background-color: rgba(195,172,250,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	filter: drop-shadow(60px 60px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 673.5px;
+	height: 611.5px;
+	left: 474px;
+	top: 72px;
+}
+#Image_1 {
+	position: absolute;
+	width: 162px;
+	height: 146px;
+	left: 710px;
+	top: 101px;
+	overflow: visible;
+}
+#Did_someone_forget_their_passw {
+	left: 587px;
+	top: 251px;
+	position: absolute;
+	overflow: visible;
+	width: 409px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#enterOTP {
+	left: 730px;
+	top: 251px;
+	position: absolute;
+	overflow: visible;
+	width: 409px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Thats_ok_Just_enter_the_User_I {
+	left: 622px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 499px;
+	height: 41px;
+	left: 528px;
+	top: 447px;
+	box-sizing: border-box;
+	border: 1px solid rgb(0, 0, 0);
+	padding-left: 20px;
+}
+#Your_UserID_ {
+	left: 565px;
+	top: 404px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 117.4px;
+	height: 42px;
+	left: 909.6px;
+	top: 505px;
+	transform: matrix(1,0,0,1,0,0);
+	box-sizing: border-box;
+	border: 1px solid rgb(0, 0, 0);
+	background-color: #6646cb;
+
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial Rounded MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Icon_awesome-user-lock {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-user-lock {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 24.64px;
+	left: 531.6px;
+	top: 406.6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+#Change_Pasword {
+	left: 696px;
+	top: 252px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Enter_your_new_password_for_yo {
+	left: 642px;
+	top: 288px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+.R2 {
+	position: absolute;
+	overflow: visible;
+	width: 499px;
+	height: 41px;
+	left: 528px;
+	top: 366px;
+	box-sizing: border-box;
+	border: 1px solid rgb(0, 0, 0);
+	padding-left: 20px;
+}
+#New_Password {
+	left: 574px;
+	top: 324px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Icon_metro-enter {
+	fill: rgba(0,0,0,1);
+}
+.Icon_metro-enter {
+	overflow: visible;
+	position: absolute;
+	width: 28.92px;
+	height: 30.849px;
+	left: 528px;
+	top: 322px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-enter_n {
+	fill: rgba(0,0,0,1);
+}
+.Icon_metro-enter_n {
+	overflow: visible;
+	position: absolute;
+	width: 28.92px;
+	height: 30.849px;
+	left: 528px;
+	top: 420px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Confirm_New_Password {
+	left: 574px;
+	top: 422px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 499px;
+	height: 41px;
+	left: 528px;
+	top: 464px;
+	box-sizing: border-box;
+	border: 1px solid rgb(0, 0, 0);
+	padding-left: 20px;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	height: 37px;
+	left: 863px;
+	top: 520px;
+	
+	transform: matrix(1,0,0,1,0,0);
+	box-sizing: border-box;
+	border: 1px solid rgb(0, 0, 0);
+	background-color: #6646cb;
+
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial Rounded MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Icon_awesome-home {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-home {
+	overflow: visible;
+	position: absolute;
+	width: 38.8px;
+	height: 29.8px;
+	left: 346.067px;
+	top: 72.133px;
+	transform: matrix(1,0,0,1,0,0);
+}

@@ -1,0 +1,45 @@
+/* Phần sửa từ home.css*/
+#Web_1366__1 {
+    height: 4780px;
+}
+
+#Group_18 {
+    top: 4480px;
+}
+
+#Rectangle_15 {
+    height: 4120px;
+}
+
+/*Phần thêm*/
+.table-lt, .table-lt tr,  .table-lt td {
+    border: 1px solid #c2baba;
+    border-collapse:collapse;
+    padding: 15px;
+}
+.table-lt {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.table-lt h4, td:nth-child(odd) {
+    color: blue;
+    text-align: center;
+}
+
+.table-lt td:nth-child(odd) {
+    width: 200px;
+    font-weight: bold;
+}
+
+.table-lt tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.hv-ul {
+    text-indent: 20px;
+}
+
+.hv-li {
+    padding: 10px;
+}

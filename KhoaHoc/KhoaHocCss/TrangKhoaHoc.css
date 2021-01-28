@@ -1,0 +1,31 @@
+/* Phần sửa từ home.css*/
+#Web_1366__1 {
+    height: 2179px;
+}
+
+#Group_18 {
+    top: 1880px;
+}
+
+#Rectangle_15 {
+    height: 1500px;
+}
+
+/*Phần thêm*/
+.div_navi {
+    background-color: rgb(202, 242, 255);
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    text-indent: 10px;
+    margin-bottom: 10px;
+}
+
+.img-khoahoc {
+    width: 300px;
+    height: 200px;
+}
+
+.table-khoahoc, .table-khoahoc td, .table-khoahoc tr {
+    padding: 10px;
+}

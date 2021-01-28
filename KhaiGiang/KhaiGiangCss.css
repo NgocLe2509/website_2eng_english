@@ -1,0 +1,80 @@
+
+/* Phần sửa từ home.css*/
+#Web_1366__1 {
+    height: 5450px;
+}
+
+#Group_18 {
+    top: 5150px;
+}
+
+#Rectangle_15 {
+    height:4750px;
+}
+
+/*Phần Trang khai giảng*/
+
+#Lin_Kt h1 {
+    text-align: center;
+    color: blue;
+}
+
+#Lin_Kt p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#Lin_Kt h3 {
+    color: red; 
+    text-align: center;
+}
+
+.img-dk {
+    padding-left: 220px;
+    padding-bottom: 10px;
+}
+
+.table-kg , .table-kg td, .table-kg tr, .table-kg th {
+    border: 1px solid#aaa2a2;
+    border-collapse:collapse;
+    text-align: center;
+    padding: 10px;
+}
+
+.table-kg {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.td-1 {
+    color: blue;
+    font-weight: bold;
+    width: 120px;
+}
+
+.table-kg tr:nth-child(1) {
+    background-color: rgb(182, 208, 223);
+}
+
+.table-kg th {
+    background-color: rgb(243, 243, 122);
+    color: rgb(211, 17, 211)
+    ;
+}
+
+.table-kg tr:nth-child(even) {
+    background-color: #f0eaea;
+}
+
+.kg-img-dk {
+    width: 150px;
+}
+
+.div_navi {
+    background-color: rgb(202, 242, 255);
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    text-indent: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,73 @@
+
+/*Phần thêm cho trang Khóa học*/
+#Lin_Kt h1 {
+    text-align: center;
+    color: blue;
+}
+
+#Lin_Kt p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#Lin_Kt h3 {
+    color: red; 
+    text-align: center;
+}
+
+.kh-ghichu {
+    text-indent: 30px;
+    font-style: italic;
+}
+
+#Lin_Kt ul {
+    padding-left: 20px;
+}
+
+#Lin_Kt li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.kh-li {
+    list-style: square;
+}
+
+.img-dk {
+    padding-left: 220px;
+    padding-bottom: 10px;
+}
+
+.table-lt, .table-lt th,  .table-lt td {
+    border: 1px solid #c2baba;
+    border-collapse:collapse;
+}
+
+.table-lt td {
+    padding: 15px;
+}
+
+.table-lt h4, td:nth-child(odd) {
+    color: blue;
+    text-align: center;
+}
+
+.table-lt td:nth-child(odd) {
+    width: 123px;
+    font-weight: bold;
+}
+
+.table-lt tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.img-tv {
+    padding-left: 190px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.img-lt {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

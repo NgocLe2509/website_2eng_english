@@ -1,0 +1,41 @@
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+h2{
+    color:blue;
+}
+h3{
+    color:royalblue;
+}
+
+th,td{
+    padding:10px;
+}
+ tr:nth-child(odd) {
+    background-color: lightgray;
+}
+
+ tr:nth-child(even) {
+    background-color: white;
+}
+th{
+    background-color:darkviolet;
+    color:white;
+    text-align:center;
+    vertical-align:central;
+}
+#Lin_kt span{
+    color:midnightblue;
+    font-weight:bold;
+}
+#Rectangle_15 {
+    height: 4800px;
+}
+#Group_18 {
+    top: 5200px;
+}
+#Web_1366__1 {
+    height: 5500px;
+}

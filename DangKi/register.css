@@ -1,0 +1,2269 @@
+.mediaViewInfo {
+    --web-view-name: iPhone XR, XS Max, 11 – 1;
+    --web-view-id: iPhone_XR_XS_Max_11__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: iPhone_XR_XS_Max_11__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#iPhone_XR_XS_Max_11__1 {
+    position: absolute;
+    width: 1556px;
+    height: 6127px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: iPhone XR, XS Max, 11 – 1;
+    --web-view-id: iPhone_XR_XS_Max_11__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Group_18 {
+    position: absolute;
+    width: 1556px;
+    height: 6136px;
+    left: 0px;
+    top: -9px;
+    overflow: visible;
+}
+#ID1 {
+    opacity: 0.52;
+    position: absolute;
+    width: 1556px;
+    height: 5675px;
+    left: 0px;
+    top: 461px;
+    overflow: visible;
+}
+#Untitled {
+    opacity: 0.7;
+    position: absolute;
+    width: 1555px;
+    height: 461px;
+    left: 1px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1 {
+    fill: rgba(121,95,206,1);
+    stroke: rgba(6,0,0,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 1339px;
+    height: 39px;
+    left: 109px;
+    top: 180px;
+}
+#Path_3 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(0,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_3 {
+    overflow: visible;
+    position: absolute;
+    width: 1291px;
+    left: 116px;
+    top: 143px;
+}
+#Group_1 {
+    position: absolute;
+    width: 164px;
+    height: 51px;
+    left: 1285px;
+    top: 94px;
+    overflow: visible;
+}
+#Group_13 {
+    position: absolute;
+    width: 164px;
+    height: 51px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#LEARN_TO_ENGLISH_WITH_2Eng {
+    left: 540px;
+    top: 46px;
+    position: absolute;
+    overflow: visible;
+    width: 445px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(57,24,159,1);
+}
+#Group_4 {
+    position: absolute;
+    width: 1556px;
+    height: 299px;
+    left: 0px;
+    top: 5837px;
+    overflow: visible;
+}
+#Rectangle_14 {
+    fill: rgba(102,70,203,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_14 {
+    position: absolute;
+    overflow: visible;
+    width: 1556px;
+    height: 299px;
+    left: 0px;
+    top: 0px;
+}
+#TRUNG_TM_ANH_NG_2Eng_a_ch_Khu_ {
+    left: 200px;
+    top: 76px;
+    position: absolute;
+    overflow: visible;
+    width: 704px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(1,1,9,1);
+}
+#Line_16 {
+    fill: transparent;
+    stroke: rgba(252,246,246,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_16 {
+    overflow: visible;
+    position: absolute;
+    width: 1420px;
+    height: 2px;
+    left: 68.5px;
+    top: 247.724px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#_2020_2Eng_All_Rights_Reserved {
+    left: 110px;
+    top: 272px;
+    position: absolute;
+    overflow: visible;
+    width: 315px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(4,0,0,1);
+}
+#Group_17 {
+    position: absolute;
+    width: 100px;
+    height: 128px;
+    left: 980px;
+    top: 83px;
+    overflow: visible;
+}
+#FOLLOW_2Eng__ {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(0,0,9,1);
+}
+#Image_1 {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 93px;
+    top: 56px;
+    overflow: visible;
+}
+#Image_2 {
+    position: absolute;
+    width: 70px;
+    height: 71px;
+    left: 0px;
+    top: 56px;
+    overflow: visible;
+}
+#logo-da-thong-bao-website-voi- {
+    position: absolute;
+    width: 279px;
+    height: 106px;
+    left: 1200px;
+    top: 105px;
+    overflow: visible;
+}
+#Image_4_x {
+    position: absolute;
+    width: 100px;
+    height: 97px;
+    left: 60px;
+    top: 100px;
+    overflow: visible;
+}
+#form-login-popup {
+    position: absolute;
+    width: 1291px;
+    height: 159px;
+    left: 116px;
+    top: 183px;
+    overflow: visible;
+}
+#Image_4_x_ {
+    position: absolute;
+    width: 150px;
+    height: 103px;
+    left: 116px;
+    top: 16px;
+    overflow: visible;
+}
+#Line_17 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_17 {
+    overflow: visible;
+    position: absolute;
+    width: 2px;
+    height: 471.002px;
+    left: 960px;
+    top: 627.232px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Cch_ng_K_Hc_Ti_Trung_Tm_Anh_Ng {
+    left: 438px;
+    top: 461px;
+    position: absolute;
+    overflow: visible;
+    width: 682px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(248,42,42,1);
+}
+#Di_y_l_cc_hng_dn__cc_em_ng_k_h {
+    left: 190px;
+    top: 558px;
+    position: absolute;
+    overflow: visible;
+    width: 1049px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Cch_ng_K {
+    left: 190px;
+    top: 798px;
+    position: absolute;
+    overflow: visible;
+    width: 131px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#CCH_1_ng_k_v_ng_hc_ph_trc_tip_ {
+    left: 190px;
+    top: 832px;
+    position: absolute;
+    overflow: visible;
+    width: 548px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Cc_em_n_Phng_Ghi_danh_a_ch__s_ {
+    left: 190px;
+    top: 860px;
+    position: absolute;
+    overflow: visible;
+    width: 735px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#CCH_2__ng_k_online_v_np_hc_ph_ {
+    left: 190px;
+    top: 921px;
+    position: absolute;
+    overflow: visible;
+    width: 507px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#c_bit_ch_ {
+    left: 190px;
+    top: 635px;
+    position: absolute;
+    overflow: visible;
+    width: 143px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial Rounded MT;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Cc_lp_thng_ht_ch_khong_10_ngy_ {
+    left: 190px;
+    top: 662px;
+    position: absolute;
+    overflow: visible;
+    width: 758px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#_tit_kim_thi_gian_v_cng_sc_i_l {
+    left: 190px;
+    top: 950px;
+    position: absolute;
+    overflow: visible;
+    width: 741px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Hotline_h_tr {
+    left: 190px;
+    top: 1017px;
+    position: absolute;
+    overflow: visible;
+    width: 133px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#ID0123456789_hoc_147258369 {
+    left: 190px;
+    top: 1046px;
+    position: absolute;
+    overflow: visible;
+    width: 267px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_15 {
+    fill: rgba(219,217,217,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_15 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 1291px;
+    height: 82px;
+    left: 116px;
+    top: 1112px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#HNG_DN_NG_K_HC {
+    left: 578px;
+    top: 1147px;
+    position: absolute;
+    overflow: visible;
+    width: 401px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,86,86,1);
+}
+#_ng_k_trc_tip {
+    left: 190px;
+    top: 1216px;
+    position: absolute;
+    overflow: visible;
+    width: 173px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_16 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(180,180,180,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_16 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 638px;
+    height: 297px;
+    left: 130px;
+    top: 1260px;
+}
+#Rectangle_17 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(180,180,180,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_17 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 638px;
+    height: 297px;
+    left: 767px;
+    top: 1260px;
+}
+#Image_3 {
+    position: absolute;
+    width: 108px;
+    height: 97px;
+    left: 372px;
+    top: 1262px;
+    overflow: visible;
+}
+#Image_4 {
+    position: absolute;
+    width: 114px;
+    height: 97px;
+    left: 1021px;
+    top: 1262px;
+    overflow: visible;
+}
+#PHNG_GHI_DANH {
+    left: 351px;
+    top: 1366px;
+    position: absolute;
+    overflow: visible;
+    width: 179px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,63,63,1);
+}
+#THI_GIAN_LM_VIC {
+    left: 975px;
+    top: 1366px;
+    position: absolute;
+    overflow: visible;
+    width: 207px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,63,63,1);
+}
+#Cc_bn_n_trc_tip_Tr_s_Trung_tm_ {
+    left: 144px;
+    top: 1412px;
+    position: absolute;
+    overflow: visible;
+    width: 593px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Th_Hai_-_Th_By_-_Sng_7h_-_11h3 {
+    left: 885px;
+    top: 1413px;
+    position: absolute;
+    overflow: visible;
+    width: 393px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#_ng_k_qua_website {
+    left: 173px;
+    top: 1595px;
+    position: absolute;
+    overflow: visible;
+    width: 207px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Icon_awesome-hand-point-right {
+    fill: rgba(143,57,175,1);
+}
+.Icon_awesome-hand-point-right {
+    overflow: visible;
+    position: absolute;
+    width: 58.8px;
+    height: 45.3px;
+    left: 499.2px;
+    top: 3940.42px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_1 {
+    fill: rgba(143,57,175,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_1 {
+    overflow: visible;
+    position: absolute;
+    width: 380.867px;
+    height: 66px;
+    left: 588px;
+    top: 3930.131px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#LCH_KHAI_GING {
+    left: 670px;
+    top: 3949px;
+    position: absolute;
+    overflow: visible;
+    width: 217px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Path_2 {
+    fill: rgba(249,111,111,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_2 {
+    overflow: visible;
+    position: absolute;
+    width: 380.867px;
+    height: 66px;
+    left: 588px;
+    top: 4027.441px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#KHA_HC {
+    left: 710px;
+    top: 4046px;
+    position: absolute;
+    overflow: visible;
+    width: 137px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Icon_awesome-hand-point-right_bw {
+    fill: rgba(249,111,111,1);
+}
+.Icon_awesome-hand-point-right_bw {
+    overflow: visible;
+    position: absolute;
+    width: 58.8px;
+    height: 45.3px;
+    left: 499.2px;
+    top: 4045.608px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_50 {
+    fill: rgba(219,212,212,1);
+}
+.Rectangle_50 {
+    position: absolute;
+    overflow: visible;
+    width: 1291px;
+    height: 282px;
+    left: 116px;
+    top: 4157px;
+}
+#Cc_lp_thng_ht_ch_rt_nhanh_C_mt {
+    left: 150px;
+    top: 4183px;
+    position: absolute;
+    overflow: visible;
+    width: 1301px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#Icon_awesome-hand-point-right_bz {
+    fill: rgba(234,32,32,1);
+}
+.Icon_awesome-hand-point-right_bz {
+    overflow: visible;
+    position: absolute;
+    width: 50.567px;
+    height: 32.366px;
+    left: 602.3px;
+    top: 5605.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#ng_k_t_vn_min_ph {
+    
+    left: 1070px;
+		top: 620px;
+		position: absolute;
+		overflow: visible;
+		width: 123px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(114,110,110,1);
+}
+#Rectangle_18 {
+    fill: #81BEF7;
+}
+.Rectangle_18 {
+    position: absolute;
+    overflow: visible;
+    width: 410px;
+    height: 400px;
+    left: 985px;
+    top: 660px;
+}
+#Rectangle_19 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_19 {
+    position: absolute;
+    overflow: visible;
+    width: 354px;
+    height: 37px;
+    left: 1005px;
+    top: 686px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Rectangle_24 {
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 37px;
+    left: 1110px;
+    top: 996px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #000000;
+}
+#result_Problem {
+    position: absolute;
+    overflow: visible;
+    left: 1010px;
+    top: 1045px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+    color: red;
+    font-style: italic;
+}
+#Rectangle_29 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_29 {
+    position: absolute;
+    overflow: visible;
+    width: 354px;
+    height: 37px;
+    left: 1005px;
+    top: 748px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#Rectangle_30 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_30 {
+    position: absolute;
+    overflow: visible;
+    width: 354px;
+    height: 37px;
+    left: 1005px;
+    top: 810px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#Rectangle_31 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_31 {
+    position: absolute;
+    overflow: visible;
+    width: 354px;
+    height: 37px;
+    left: 1005px;
+    top: 872px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#Rectangle_32 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_32 {
+    position: absolute;
+    overflow: visible;
+    width: 354px;
+    height: 37px;
+    left: 1005px;
+    top: 934px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#Rectangle_33 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_33 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 59px;
+    left: 130px;
+    top: 1639px;
+}
+#Rectangle_34 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(198,198,198,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_34 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 271px;
+    left: 130px;
+    top: 1698px;
+}
+#BC_1 {
+    left: 150px;
+    top: 1658px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Xem_lch_khai_ging__trn_v_chn_l {
+    left: 150px;
+    top: 1727px;
+    position: absolute;
+    overflow: visible;
+    width: 1178px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_35 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_35 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 59px;
+    left: 130px;
+    top: 2018px;
+}
+#BC_2 {
+    left: 150px;
+    top: 2037px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_36 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(198,198,198,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_36 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 117px;
+    left: 130px;
+    top: 2077px;
+}
+#in_vo_Form_ng_k_hc_bn_di_Hy_in {
+    left: 150px;
+    top: 2101px;
+    position: absolute;
+    overflow: visible;
+    width: 1152px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_37 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_37 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 59px;
+    left: 130px;
+    top: 2224px;
+}
+#Rectangle_38 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(198,198,198,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_38 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 253px;
+    left: 130px;
+    top: 2283px;
+}
+#Np_hc_ph_qua_ngn_hng__online_b {
+    left: 150px;
+    top: 2297px;
+    position: absolute;
+    overflow: visible;
+    width: 1162px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#BC_3 {
+    left: 150px;
+    top: 2243px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_39 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_39 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 59px;
+    left: 130px;
+    top: 2578px;
+}
+#BC_4 {
+    left: 150px;
+    top: 2597px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_40 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(198,198,198,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_40 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 159px;
+    left: 130px;
+    top: 2637px;
+}
+#Kim_tra_email_phn_hi_ca_Trung_ {
+    left: 150px;
+    top: 2667px;
+    position: absolute;
+    overflow: visible;
+    width: 1202px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_41 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_41 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 59px;
+    left: 130px;
+    top: 2836px;
+}
+#BC_5 {
+    left: 150px;
+    top: 2855px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_42 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(198,198,198,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_42 {
+    position: absolute;
+    overflow: visible;
+    width: 1238px;
+    height: 98px;
+    left: 130px;
+    top: 2895px;
+}
+#Sau_khi_kim_tra_email_phn_hi_c {
+    left: 150px;
+    top: 2917px;
+    position: absolute;
+    overflow: visible;
+    width: 1153px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_43 {
+    fill: rgba(255,224,224,1);
+    stroke: rgba(245,245,245,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_43 {
+    position: absolute;
+    overflow: visible;
+    width:1291px;
+    height: 825px;
+    left: 116px;
+    top: 3043px;
+}
+#Rectangle_45 {
+    fill: rgba(32,32,56,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_45 {
+    position: absolute;
+    overflow: visible;
+    width: 424px;
+    height: 749px;
+    left: 822px;
+    top: 3077px;
+}
+#Polygon_1 {
+    fill: rgba(249,103,103,1);
+}
+.Polygon_1 {
+    overflow: visible;
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    left: 748px;
+    top: 3088px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_46 {
+    fill: rgba(32,32,56,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_46 {
+    position: absolute;
+    overflow: visible;
+    width: 424px;
+    height: 749px;
+    left: 354px;
+    top: 3077px;
+}
+#Rectangle_47 {
+    fill: rgba(249,103,103,1);
+}
+.Rectangle_47 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 36px;
+    left: 673px;
+    top: 3120px;
+}
+#Nn_chn {
+    left: 703px;
+    top: 3127px;
+    position: absolute;
+    overflow: visible;
+    width: 92px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#NG_TRN_KHA {
+    left: 426px;
+    top: 3174px;
+    position: absolute;
+    overflow: visible;
+    width: 281px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Line_18 {
+    fill: transparent;
+    stroke: rgba(255,253,253,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_18 {
+    overflow: visible;
+    position: absolute;
+    width: 213px;
+    height: 1px;
+    left: 460.5px;
+    top: 3233.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#__________Tit_kim_200000_VN_so {
+    left: 376px;
+    top: 3281px;
+    position: absolute;
+    overflow: visible;
+    width: 393px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(198,197,197,1);
+}
+#Image_5 {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 366px;
+    top: 3277px;
+    overflow: visible;
+}
+#Image_6 {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 366px;
+    top: 3345px;
+    overflow: visible;
+}
+#Image_7 {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 366px;
+    top: 3405px;
+    overflow: visible;
+}
+#Image_8 {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 366px;
+    top: 3528px;
+    overflow: visible;
+}
+#Image_8_c {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 366px;
+    top: 3596px;
+    overflow: visible;
+}
+#NG_TNG_LP {
+    left: 905px;
+    top: 3174px;
+    position: absolute;
+    overflow: visible;
+    width: 260px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Line_19 {
+    fill: transparent;
+    stroke: rgba(255,253,253,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_19 {
+    overflow: visible;
+    position: absolute;
+    width: 213px;
+    height: 1px;
+    left: 927.5px;
+    top: 3233.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ph_hp_cho_cc_bn_sinh_vin_sp__x {
+    left: 870px;
+    top: 3281px;
+    position: absolute;
+    overflow: visible;
+    width: 367px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(198,197,197,1);
+}
+#Image_5_c {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 840px;
+    top: 3277px;
+    overflow: visible;
+}
+#Image_5_da {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 840px;
+    top: 3345px;
+    overflow: visible;
+}
+#Image_5_db {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 840px;
+    top: 3405px;
+    overflow: visible;
+}
+#Image_5_dc {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 840px;
+    top: 3483px;
+    overflow: visible;
+}
+#Image_5_dd {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    left: 840px;
+    top: 3573px;
+    overflow: visible;
+}
+#Rectangle_48 {
+    fill: rgba(249,103,103,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_48 {
+    position: absolute;
+    overflow: visible;
+    width: 181px;
+    height: 58px;
+    left: 476px;
+    top: 3735px;
+}
+#Rectangle_49 {
+    fill: rgba(249,103,103,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_49 {
+    position: absolute;
+    overflow: visible;
+    width: 181px;
+    height: 58px;
+    left: 963px;
+    top: 3735px;
+}
+#ng_k_ngay {
+    left: 488px;
+    top: 3750px;
+    position: absolute;
+    overflow: visible;
+    width: 158px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#ng_k_ngay_dh {
+    left: 975px;
+    top: 3750px;
+    position: absolute;
+    overflow: visible;
+    width: 158px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#HY_IN_VO_FORM_DI_Y__NG_K_TRC_T {
+    left: 347px;
+    top: 4506px;
+    position: absolute;
+    overflow: visible;
+    width: 863px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,0,0,1);
+}
+#_H_v_Tn {
+    left: 181px;
+    top: 4624px;
+    position: absolute;
+    overflow: visible;
+    width: 110px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_51 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 181px;
+    top: 4662px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#_S_in_thoi {
+    left: 809px;
+    top: 4624px;
+    position: absolute;
+    overflow: visible;
+    width: 141px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_52 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 809px;
+    top: 4662px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+}
+#_Email {
+    left: 181px;
+    top: 4757px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_53 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 181px;
+    top: 4795px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#_S_CMND {
+    left: 809px;
+    top: 4757px;
+    position: absolute;
+    overflow: visible;
+    width: 105px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_54 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 809px;
+    top: 4795px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+}
+#_Phng_thc_ng_k {
+    left: 181px;
+    top: 4890px;
+    position: absolute;
+    overflow: visible;
+    width: 220px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_55 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 181px;
+    top: 4928px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+}
+#_Lp {
+    left: 809px;
+    top: 4890px;
+    position: absolute;
+    overflow: visible;
+    width: 52px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_56 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 809px;
+    top: 4928px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+}
+#_Hc_online_Trc_tip {
+    left: 181px;
+    top: 5023px;
+    position: absolute;
+    overflow: visible;
+    width: 214px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_57 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 809px;
+    top: 5061px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+}
+#_Ca_hc {
+    left: 809px;
+    top: 5023px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_58 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 181px;
+    top: 5061px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+}
+#_Th {
+    left: 187px;
+    top: 5156px;
+    position: absolute;
+    overflow: visible;
+    width: 55px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#_Ngy_khai_ging {
+    left: 809px;
+    top: 5156px;
+    position: absolute;
+    overflow: visible;
+    width: 168px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+
+.Rectangle_59 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 181px;
+    top: 5194px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+}
+
+.Rectangle_60 {
+    position: absolute;
+    overflow: visible;
+    width: 472px;
+    height: 63px;
+    left: 809px;
+    top: 5194px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+    border: 1px solid #000000;
+    outline: none;
+    padding-left: 20px;
+}
+.Rectangle_61 {
+    position: absolute;
+    overflow: visible;
+    width: 1100px;
+    height: 63px;
+    left: 181px;
+    top: 5289px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    background-color: rgba(61,189,60,1);
+    text-align: center;
+}
+
+#Nu_cn_t_vn_thm_v_cc_kha_hc_luy {
+    left: 180px;
+    top: 5443px;
+    position: absolute;
+    overflow: visible;
+    width: 1197px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_62 {
+    fill: rgba(246,45,45,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_62 {
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    height: 57px;
+    left: 667px;
+    top: 5583px;
+}
+#Lin_H_T_Vn {
+    left: 705px;
+    top: 5598px;
+    position: absolute;
+    overflow: visible;
+    width: 185px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+
+#S_in_thoi {
+    left: 1015px;
+    top: 756px;
+    position: absolute;
+    overflow: visible;
+    width: 128px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+}
+#Email {
+    left: 1015px;
+    top: 818px;
+    position: absolute;
+    overflow: visible;
+    width: 56px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+}
+#Kha_hc {
+    left: 1015px;
+    top: 880px;
+    position: absolute;
+    overflow: visible;
+    width: 93px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+}
+#Vn_ {
+    left: 1015px;
+    top: 942px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+}
+#Gi {
+    left: 1145px;
+    top: 1003px;
+    position: absolute;
+    overflow: visible;
+    width: 38px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(114,110,110,1);
+}
+#Hi {
+    position: absolute;
+    left: 1284px;
+    top: 59px;
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Ngc {
+    position: absolute;
+    left: 1320px;
+    top: 59px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+    text-decoration-line: underline;
+}
+#Rectangle_7 {
+    fill: rgba(102,70,203,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_7 {
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    height: 51px;
+    left: 1255px;
+    top: 36px;
+}
+#ng_nhp {
+    left: 1290px;
+    top: 51px;
+    position: absolute;
+    overflow: visible;
+    width: 104px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,242,242,1);
+}
+#Image_4_bh {
+    position: absolute;
+    width: 220px;
+    height: 103px;
+    left: 116px;
+    top: 16px;
+    overflow: visible;
+}
+
+/* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    #menu {
+        width: 1291px;
+        height: 36px;
+        left: 116px;
+        top: 135px;
+        font-size: 20px;
+        text-align: center;
+    }
+    #menu ul {
+        background: #795FCE;
+    }
+    #menu li {
+        display: inline-block;
+        line-height: 40px;
+        text-align: left;
+    }
+
+    #menu li:hover {
+        background: #c491fd;
+    }
+    #menu li:hover {
+        background: #c491fd;
+    }
+    #menu a {
+        text-decoration: none;
+        color: #fff;
+        display: block;
+    }
+    
+    .sub-menu {
+        display: none;
+        position: absolute;
+    }
+
+    li:hover .sub-menu {
+        display: block;
+    }
+    .sub-menu li{
+        padding-left: 10px;
+    }
+
+    .sub2 {
+        width: 220px;
+    }
+    .li1 {
+        padding-right: 43px;
+    }
+    .li2 {
+        padding-right: 43px;
+    }
+    .li3 {
+        padding-right: 20px;
+    }
+    .li4 {
+        padding-right: 52px;
+    }
+    .li5 {
+        padding-right: 25px;
+    }
+
+    .sub1 {
+        width: 100px;
+    }
+    .li6 {
+        padding-right: 32px;
+    }
+    .li7 {
+        padding-right: 20px;
+    }
+    .li8 {
+        padding-right: 91px;
+    }
+    .li9 {
+        padding-right: 21px;
+    }
+
+    .sub3 {
+        width: 100px;
+    }
+    .li10 {
+        padding-right: 10px;
+    }
+    .li11 {
+        padding-right: 47px;
+    }
+    .li12 {
+        padding-right: 102px;
+    }
+
+
+    #Icon_awesome-home {
+    fill: rgba(255,255,255,1);
+    }
+    .Icon_awesome-home {
+        overflow: visible;
+        width: 40px;
+        height: 18px;
+        transform: matrix(1,0,0,1,0,0);
+    }
+    #menu, #dropdown{
+        position: absolute;
+        }
+    #menu {
+    z-index: 4;
+    }
+    #dropdown {
+    z-index: 5;
+    }
+    #Icon_awesome-home {
+        fill: rgba(255,255,255,1);
+        }
+        .Icon_awesome-home {
+            overflow: visible;
+            width: 40px;
+            height: 18px;
+            transform: matrix(1,0,0,1,0,0);
+        }
+
+        .empty {
+            position: absolute;
+            overflow: visible;
+            width: 110px;
+            white-space: nowrap;
+            text-align: left;
+            font-family: Arial;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 13px;
+            color: rgb(255, 0, 0);
+            font-style: italic;
+        }
+    #empty1 {
+        left: 181px;
+        top: 4730px;
+    }
+    #empty2 {
+        left: 181px;
+        top: 4865px;
+    }
+    #empty3 {
+        left: 181px;
+        top: 4995px;
+    }
+    #empty4 {
+        left: 181px;
+        top: 5127px;
+    }
+    #empty5 {
+        left: 181px;
+        top: 5260px;
+    }
+    #empty6 {
+        left: 809px;
+        top: 4730px;
+    }
+    #empty7 {
+        left: 809px;
+        top: 4865px;
+    }
+    #empty8 {
+        left: 809px;
+        top: 4995px;
+    }
+    #empty9 {
+        left: 809px;
+        top: 5127px;
+    }
+    #empty10 {
+        left: 809px;
+        top: 5260px;
+    }
+    #return {
+        left: 510px;
+        top: 360px;
+    }
+    #dropdown ul {
+        position: absolute;
+        overflow: visible;
+        width: 200px;
+        left: 1190px;
+        top: -80px;
+        list-style-type: none;
+        background-color: #fff;
+        box-shadow: 3px 3px 10px rgb(201, 201, 201);
+    }
+    #dropdown li {
+        font-size: 18px;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border: 1px solid rgb(226, 224, 224);
+        color: rgb(70, 70, 70);
+    }
+    #dropdown li:hover {
+        background: #f7f1fd;
+    }
+    
+    /* Chat icon */
+.chat {
+    position: fixed;
+    right: 53px;
+    bottom: 12px;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.chat-img {
+    width: 200px;
+}
+
+/*nút top*/
+#top {
+    display: none;
+    position: fixed;
+    right: 60px;
+    bottom: 100px;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.top-img {
+    width: 55px;
+}

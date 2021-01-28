@@ -1,0 +1,653 @@
+.mediaViewInfo {
+    --web-view-name: Web 1366 – 1;
+    --web-view-id: Web_1366__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1366__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1366__1 {
+    position: absolute;
+    width: 1523px;
+    height: 1650px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1366 – 1;
+    --web-view-id: Web_1366__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Untitled {
+    opacity: 0.7;
+    position: absolute;
+    width: 1523px;
+    height: 451px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#LEARN_TO_ENGLISH_WITH_2Eng {
+    left: 540px;
+    top: 46px;
+    position: absolute;
+    overflow: visible;
+    width: 445px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(57,24,159,1);
+}
+#Group_14 {
+    position: absolute;
+    width: 172px;
+    height: 55px;
+    left: 1235px;
+    top: 40px;
+    overflow: visible;
+}
+#Group_13 {
+    position: absolute;
+    width: 172px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_7 {
+    fill: rgba(102,70,203,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_7 {
+    position: absolute;
+    overflow: visible;
+    width: 172px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+}
+#ng_nhp {
+    left: 32px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 109px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: rgba(255,242,242,1);
+}
+
+#ID1 {
+    opacity: 0.52;
+    position: absolute;
+    width: 1523px;
+    height: 1228px;
+    left: 0px;
+    top: 451px;
+    overflow: visible;
+}
+#Rectangle_15 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_15 {
+    position: absolute;
+    overflow: visible;
+    width: 1291px;
+    height: 1000px;
+    left: 116px;
+    top: 330px;
+}
+#Group_18 {
+    position: absolute;
+    width: 1523px;
+    height: 299px;
+    left: 0px;
+    top: 1400px;
+    overflow: visible;
+}
+#Rectangle_14 {
+    fill: rgba(149,124,228,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_14 {
+    position: absolute;
+    overflow: visible;
+    width: 1523px;
+    height: 299px;
+    left: 0px;
+    top: 0px;
+}
+#TRUNG_TM_ANH_NG_2Eng_a_ch_Khu_ {
+    left: 239px;
+    top: 47px;
+    position: absolute;
+    overflow: visible;
+    width: 704px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(1,1,9,1);
+}
+#Line_16 {
+    fill: transparent;
+    stroke: rgba(252,246,246,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_16 {
+    overflow: visible;
+    position: absolute;
+    width: 1267px;
+    height: 2px;
+    left: 122.5px;
+    top: 211.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#_2020_2Eng_All_Rights_Reserved {
+    left: 110px;
+    top: 238px;
+    position: absolute;
+    overflow: visible;
+    width: 315px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(4,0,0,1);
+}
+#Group_17 {
+    position: absolute;
+    width: 186px;
+    height: 128px;
+    left: 983px;
+    top: 47px;
+    overflow: visible;
+}
+#FOLLOW_2Eng__ {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(0,0,9,1);
+}
+#Image_1 {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 101px;
+    top: 56px;
+    overflow: visible;
+}
+#Image_2 {
+    position: absolute;
+    width: 71px;
+    height: 72px;
+    left: 14px;
+    top: 56px;
+    overflow: visible;
+}
+#Image_4 {
+    position: absolute;
+    width: 100px;
+    height: 65px;
+    left: 100px;
+    top: 101px;
+    overflow: visible;
+}
+#logo-da-thong-bao-website-voi- {
+    position: absolute;
+    width: 206px;
+    height: 78px;
+    left: 1201px;
+    top: 1500px;
+    overflow: visible;
+}
+#form-login-popup {
+    position: absolute;
+    width: 1291px;
+    height: 159px;
+    left: 116px;
+    top: 171px;
+    overflow: visible;
+}
+#Lin_Kt {
+    left: 239px;
+    top: 367px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(57,24,159,1);
+}
+#khoa-hoc-toeic-650-2 {
+    position: absolute;
+    width: 309px;
+    height: 174px;
+    left: 1037px;
+    top: 534px;
+    overflow: visible;
+}
+#maxresdefault-9 {
+    position: absolute;
+    width: 307px;
+    height: 172px;
+    left: 1037px;
+    top: 722px;
+    overflow: visible;
+}
+#Rectangle_18 {
+    fill: rgba(57,24,159,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_18 {
+    position: absolute;
+    overflow: visible;
+    width: 307px;
+    height: 381px;
+    left: 1037px;
+    top: 923px;
+}
+#Line_19 {
+    fill: transparent;
+    stroke: rgba(255,248,248,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_19 {
+    overflow: visible;
+    position: absolute;
+    width: 245px;
+    height: 1px;
+    left: 1069.5px;
+    top: 989.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#NG_K_T_VN {
+    left: 1119px;
+    top: 946px;
+    position: absolute;
+    overflow: visible;
+    width: 166px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_19 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_19 {
+    position: absolute;
+    overflow: visible;
+    width: 246px;
+    height: 35px;
+    left: 1069px;
+    top: 1030px;
+}
+#Rectangle_20 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_20 {
+    position: absolute;
+    overflow: visible;
+    width: 246px;
+    height: 35px;
+    left: 1070px;
+    top: 1182px;
+}
+
+#Image_4_bh {
+    position: absolute;
+    width: 150px;
+    height: 103px;
+    left: 116px;
+    top: 16px;
+    overflow: visible;
+}
+#Hi {
+    left: 1284px;
+    top: 59px;
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Ngc {
+    left: 1320px;
+    top: 59px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+    text-decoration-line: underline;
+}
+
+#Icon_ionic-md-arrow-dropdown-c {
+    fill: rgba(0,0,0,1);
+}
+.Icon_ionic-md-arrow-dropdown-c {
+    overflow: visible;
+    position: absolute;
+    width: 29.25px;
+    height: 29.25px;
+    left: 1341px;
+    top: 58px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+
+
+#dropdown ul {
+    position: absolute;
+    overflow: visible;
+    width: 200px;
+    left: 1190px;
+    top: 98px;
+    list-style-type: none;
+    background-color: #fff;
+    box-shadow: 3px 3px 10px rgb(201, 201, 201);
+}
+#dropdown li {
+    font-size: 18px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(226, 224, 224);
+    color: rgb(70, 70, 70);
+}
+#dropdown li:hover {
+    background: #f7f1fd;
+}
+
+
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    #menu {
+        width: 1291px;
+        height: 36px;
+        left: 116px;
+        top: 135px;
+        font-size: 20px;
+        text-align: center;
+    }
+    #menu ul {
+        background: #795FCE;
+    }
+    #menu li {
+        display: inline-block;
+        line-height: 40px;
+        text-align: left;
+    }
+
+    #menu li:hover {
+        background: #c491fd;
+    }
+    #menu li:hover {
+        background: #c491fd;
+    }
+    #menu a {
+        text-decoration: none;
+        color: #fff;
+        display: block;
+    }
+    
+    .sub-menu {
+        display: none;
+        position: absolute;
+    }
+
+    li:hover .sub-menu {
+        display: block;
+    }
+    .sub-menu li{
+        padding-left: 10px;
+    }
+
+    .sub2 {
+        width: 220px;
+    }
+    .li1 {
+        padding-right: 43px;
+    }
+    .li2 {
+        padding-right: 43px;
+    }
+    .li3 {
+        padding-right: 20px;
+    }
+    .li4 {
+        padding-right: 52px;
+    }
+    .li5 {
+        padding-right: 25px;
+    }
+
+    .sub1 {
+        width: 100px;
+    }
+    .li6 {
+        padding-right: 32px;
+    }
+    .li7 {
+        padding-right: 20px;
+    }
+    .li8 {
+        padding-right: 91px;
+    }
+    .li9 {
+        padding-right: 21px;
+    }
+
+    .sub3 {
+        width: 100px;
+    }
+    .li10 {
+        padding-right: 10px;
+    }
+    .li11 {
+        padding-right: 47px;
+    }
+    .li12 {
+        padding-right: 102px;
+    }
+
+
+    #Icon_awesome-home {
+    fill: rgba(255,255,255,1);
+    }
+    .Icon_awesome-home {
+        overflow: visible;
+        width: 40px;
+        height: 18px;
+        transform: matrix(1,0,0,1,0,0);
+    }
+
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    /* ------------------------------------------------------------------------- */
+    #menu, #dropdown{
+        position: absolute;
+        }
+    #menu {
+    z-index: 4;
+    }
+    #dropdown {
+    z-index: 5;
+    }
+
+    /******************************************************************/
+    /****************BTL********************************************/
+    
+    #add {
+        fill: rgba(204,204,204,1);
+    }
+    .add {
+        position: absolute;
+        overflow: visible;
+        width: 397px;
+        height: 44px;
+        left: 1010px;
+        top: 632px;
+    }
+    #_add {
+        fill: rgba(0,0,0,1);
+    }
+    ._add {
+        overflow: visible;
+        position: absolute;
+        width: 20px;
+        height: 17.5px;
+        left: 1030px;
+        top: 642.622px;
+        transform: matrix(1,0,0,1,0,0);
+    }
+    #__add {
+        left: 1071px;
+        top: 613px;
+        position: absolute;
+        overflow: visible;
+        width: 68px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        color: rgba(0,0,0,1);
+    }
+
+
+    #TOEIC210_-_TOEIC_2_K_Nng {
+		left: 400px;
+		top: 390px;
+		position: absolute;
+		overflow: visible;
+		width: 415px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Bi {
+		left: 140px;
+		top: 550px;
+		position: absolute;
+		overflow: visible;
+        width: 850px;
+        font-size: 25px;
+		font-family: Arial;
+        color: rgba(61,61,61,1);
+        border: 1px solid black;
+        text-align: center;
+    }
+    
+    #L-trnh-n-thi-TOEIC--mi-t-500-i {
+        position: absolute;
+        width: 307px;
+        height: 168px;
+        left: 1039px;
+        top: 968px;
+        overflow: visible;
+    }
+    
+
+    #Bi th {
+        border: 1px solid black;
+    }
+
+    .btnLamlai {
+        background-color: red;
+        color: #fff;
+        padding: 5px;
+        font-size: 18px;
+    }
+
+    

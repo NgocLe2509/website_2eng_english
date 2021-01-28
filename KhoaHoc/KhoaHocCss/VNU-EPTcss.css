@@ -1,0 +1,16 @@
+/* Phần sửa từ home.css*/
+#Web_1366__1 {
+    height: 3769px;
+}
+
+#Group_18 {
+    top: 3470px;
+}
+
+#Rectangle_15 {
+    height: 3090px;
+}
+
+.table-lt td:nth-child(odd) {
+    width: 140px;
+}
